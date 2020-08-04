@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="4">b4f7e8172f9a101093e3e93df699b6fb</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-03 09:04:14</sys_created_on>
+        <sys_id>683ce8972f9a101093e3e93df699b61b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Our community</sys_name>
+        <sys_package display_value="Service Portal" source="x_485912_sp_labs">8522e09f2f5a101093e3e93df699b67b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Portal">8522e09f2f5a101093e3e93df699b67b</sys_scope>
+        <sys_update_name>sp_instance_683ce8972f9a101093e3e93df699b61b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-03 09:05:52</sys_updated_on>
+        <title>Our community</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<!-- ****************** --><p><br></p><!-- Our community      --><p><br></p><!-- ****************** --><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><a title=\"Connect with Cloud Dimensions team members around the world\" href=\"?id=sqa_tagged_questions\" data-mce-href=\"?id=sqa_tagged_questions\"><img style=\"max-width: 100%; max-height: 480px;\" src=\"cdsp_ourcommunity.png\" alt=\"\" data-mce-src=\"cdsp_ourcommunity.png\" data-mce-style=\"max-width: 100%; max-height: 480px;\"></a><br data-mce-bogus=\"1\"></p><h3 style=\"text-align: center;\" data-mce-style=\"text-align: center;\"><strong>Our community</strong></h3><p style=\"text-align: center;\" data-mce-style=\"text-align: center;\">Ask your colleagues a question</p>",
+		"displayValue": "<!-- ****************** -->\n<p>&nbsp;</p>\n<!-- Our community      -->\n<p>&nbsp;</p>\n<!-- ****************** -->\n<p style=\"text-align: center;\"><a title=\"Connect with Cloud Dimensions team members around the world\" href=\"?id=sqa_tagged_questions\"><img style=\"max-width: 100%; max-height: 480px;\" src=\"cdsp_ourcommunity.png\" alt=\"\" /></a></p>\n<h3 style=\"text-align: center;\"><strong>Our community</strong></h3>\n<p style=\"text-align: center;\">Ask your colleagues a question</p>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=683ce8972f9a101093e3e93df699b61b"/>
+</record_update>
